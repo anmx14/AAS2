@@ -1,0 +1,55 @@
+2024-07-24T15:42:36.181Z [INFO]: Game server started on port 12000
+2024-07-24T15:45:33.981Z [INFO]: New client connected: b0c15c7e-08d7-4669-948a-a6bbafe651a6
+2024-07-24T15:45:34.015Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:34.042Z [INFO]: Client disconnected: b0c15c7e-08d7-4669-948a-a6bbafe651a6
+2024-07-24T15:45:34.094Z [INFO]: New client connected: ef8a104e-cb36-4f08-9051-1b5f881822f6
+2024-07-24T15:45:34.102Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:34.114Z [INFO]: Client disconnected: ef8a104e-cb36-4f08-9051-1b5f881822f6
+2024-07-24T15:45:34.709Z [INFO]: New client connected: 4e556ff1-4607-4ef8-8885-a991f82a9574
+2024-07-24T15:45:34.728Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:34.745Z [INFO]: Client disconnected: 4e556ff1-4607-4ef8-8885-a991f82a9574
+2024-07-24T15:45:34.814Z [INFO]: New client connected: c09d845e-c58b-4934-90ca-1d0bf8a59f09
+2024-07-24T15:45:34.828Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:34.844Z [INFO]: Client disconnected: c09d845e-c58b-4934-90ca-1d0bf8a59f09
+2024-07-24T15:45:36.299Z [INFO]: New client connected: f35b42e3-611b-4325-9037-797e4d07027d
+2024-07-24T15:45:36.313Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:36.319Z [INFO]: Client disconnected: f35b42e3-611b-4325-9037-797e4d07027d
+2024-07-24T15:45:36.815Z [INFO]: New client connected: 6e58090c-139a-4956-ae13-b04502016d29
+2024-07-24T15:45:36.826Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:36.833Z [INFO]: Client disconnected: 6e58090c-139a-4956-ae13-b04502016d29
+2024-07-24T15:45:36.840Z [INFO]: New client connected: 2e0c754b-248d-4f9d-a352-50181a153e75
+2024-07-24T15:45:36.854Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:36.866Z [INFO]: Client disconnected: 2e0c754b-248d-4f9d-a352-50181a153e75
+2024-07-24T15:45:36.870Z [INFO]: New client connected: baf2e832-57b2-41fe-acbb-c4be1cb9c1fa
+2024-07-24T15:45:36.885Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:36.897Z [INFO]: Client disconnected: baf2e832-57b2-41fe-acbb-c4be1cb9c1fa
+2024-07-24T15:45:36.902Z [INFO]: New client connected: 88d39550-6d88-48a9-8e4a-42502584b04e
+2024-07-24T15:45:36.917Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:36.934Z [INFO]: Client disconnected: 88d39550-6d88-48a9-8e4a-42502584b04e
+2024-07-24T15:45:36.945Z [INFO]: New client connected: 02bd880f-cff4-4883-9fcd-c9f201393e9c
+2024-07-24T15:45:36.960Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:36.977Z [INFO]: Client disconnected: 02bd880f-cff4-4883-9fcd-c9f201393e9c
+2024-07-24T15:45:36.981Z [INFO]: New client connected: f700cb07-45c0-4536-88e4-6d14cf6f018b
+2024-07-24T15:45:36.996Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.009Z [INFO]: Client disconnected: f700cb07-45c0-4536-88e4-6d14cf6f018b
+2024-07-24T15:45:37.013Z [INFO]: New client connected: 8ef367a5-b4b4-49f5-8c84-1a18d9a0acae
+2024-07-24T15:45:37.029Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.041Z [INFO]: Client disconnected: 8ef367a5-b4b4-49f5-8c84-1a18d9a0acae
+2024-07-24T15:45:37.046Z [INFO]: New client connected: e1c2b991-dcde-41c2-97f0-00da64042933
+2024-07-24T15:45:37.062Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.075Z [INFO]: Client disconnected: e1c2b991-dcde-41c2-97f0-00da64042933
+2024-07-24T15:45:37.086Z [INFO]: New client connected: 63e0fd86-278b-4388-bd39-6bd5d3c4661f
+2024-07-24T15:45:37.103Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.113Z [INFO]: Client disconnected: 63e0fd86-278b-4388-bd39-6bd5d3c4661f
+2024-07-24T15:45:37.134Z [INFO]: New client connected: ec518463-0e41-4ce4-b26c-c8bbd1b3492d
+2024-07-24T15:45:37.136Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.145Z [INFO]: Client disconnected: ec518463-0e41-4ce4-b26c-c8bbd1b3492d
+2024-07-24T15:45:37.151Z [INFO]: New client connected: 3074cc72-17f1-474e-a0ca-0430eaef3a7e
+2024-07-24T15:45:37.167Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.177Z [INFO]: Client disconnected: 3074cc72-17f1-474e-a0ca-0430eaef3a7e
+2024-07-24T15:45:37.183Z [INFO]: New client connected: 63ab8766-8dc1-4fbc-bd36-834a3d5be98b
+2024-07-24T15:45:37.203Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.215Z [INFO]: Client disconnected: 63ab8766-8dc1-4fbc-bd36-834a3d5be98b
+2024-07-24T15:45:37.220Z [INFO]: New client connected: 1c7e2f8c-cd9d-4d1e-ac77-fc3c5eb944fd
+2024-07-24T15:45:37.237Z [INFO]: Login attempt: username=anmx14, password=anonimo14
+2024-07-24T15:45:37.248Z [INFO]: Client disconnected: 1c7e2f8c-cd9d-4d1e-ac77-fc3c5eb944fd
